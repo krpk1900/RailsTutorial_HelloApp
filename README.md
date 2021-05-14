@@ -1,1 +1,1 @@
-『RubyOnRailsチュートリアル』で作成したHelloアプリです。
+『Ruby on Railsチュートリアル』で作成したHelloアプリです。
